@@ -2,14 +2,14 @@ package automod_legacy
 
 // These words are listed in in alphabethical order.
 var BuiltinSwearWords = map[string]bool{
-	"anal":        true,
-	"anus":        true,
-	"arse":        true,
-	"ass":         true,
-	"b1tch":       true,
-	"ballsack":    true,
-	"bastard":     true,
-	"bitch":       true,
+	"đmm":        true,
+	"mẹ m":        true,
+	"đm":        true,
+	"cc":         true,
+	"loli":       true,
+	"cmm":    true,
+	"con chó":     true,
+	"thk chó":       true,
 	"biatch":      true,
 	"blowjob":     true,
 	"bollock":     true,
